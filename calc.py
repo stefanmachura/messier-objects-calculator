@@ -22,7 +22,7 @@ def calculate(sensor_name, lens_name, object_name):
         exit()
     lens = next(filter(lambda s: s["name"] == lens_name, lenses), None)
     if not lens:
-        print("Could not find provided lens in the lens file!")
+        print("Could not find provided lens in the lenses file!")
         exit()
     messier_object = next(filter(lambda s: s["name"] == object_name, objects), None)
     if not messier_object:
@@ -71,7 +71,7 @@ def calculate(sensor_name, lens_name, object_name):
     )
 
     print(
-        f"{messier_object['name']} will be {object_size_x_in_pixels} x {object_size_y_in_pixels} pixels, which will be {object_size_x_on_sensor:.2f}% x {object_size_y_on_sensor:.2f}% of the provided sensor size"
+        f"{messier_object['name']} will be {object_size_x_in_pixels} x {object_size_y_in_pixels} pixels, which is {object_size_x_on_sensor:.2f}% x {object_size_y_on_sensor:.2f}% of the sensor FOV"
     )
 
 
