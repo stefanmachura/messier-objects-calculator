@@ -18,7 +18,7 @@ M3 will be 730 x 728 pixels, which will be 14.09% x 21.13% of the provided senso
 
 ### Example using the default provided values
 
-`python3 calc.py Canon1200D Vixen144 M3`
+`python3 calc.py Canon1200D ED80 M3`
 
 ### Further Reading
 
