@@ -3,14 +3,12 @@
     "resolutionX": 5184,
     "resolutionY": 3456,
     "sizeX": 22.3,
-    "sizeY": 14.9,
-    "pixelPitch": 4.29
+    "sizeY": 14.9
 },
 {
-    "name": "omg",
-    "resolutionX": 5184,
-    "resolutionY": 3456,
-    "sizeX": 22.3,
-    "sizeY": 14.9,
-    "pixelPitch": 4.29
+    "name": "Canon6D",
+    "resolutionX": 5472,
+    "resolutionY": 3648,
+    "sizeX": 35.8,
+    "sizeY": 23.9
 }]
