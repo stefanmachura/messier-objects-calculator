@@ -1,0 +1,1112 @@
+[
+    {
+        "brightness": "4.6",
+        "declination": "-18:29",
+        "dim_x": "90",
+        "dim_y": "90",
+        "dimensions": "90",
+        "distance": "10000.0",
+        "name": "M24",
+        "right_ascension": "18:16.9"
+    },
+    {
+        "brightness": "6.8",
+        "declination": "-26:16",
+        "dim_x": "17.0",
+        "dim_y": "17.0",
+        "dimensions": "17.0",
+        "distance": "28000.0",
+        "name": "M19",
+        "right_ascension": "17:02.6"
+    },
+    {
+        "brightness": "5.1",
+        "declination": "-23:54",
+        "dim_x": "32.0",
+        "dim_y": "32.0",
+        "dimensions": "32.0",
+        "distance": "10400.0",
+        "name": "M22",
+        "right_ascension": "18:36.4"
+    },
+    {
+        "brightness": "6.9",
+        "declination": "-19:01",
+        "dim_x": "27.0",
+        "dim_y": "27.0",
+        "dimensions": "27.0",
+        "distance": "2150.0",
+        "name": "M23",
+        "right_ascension": "17:56.8"
+    },
+    {
+        "brightness": "7.5",
+        "declination": "-17:08",
+        "dim_x": "9.0",
+        "dim_y": "9.0",
+        "dimensions": "9.0",
+        "distance": "4900.0",
+        "name": "M18",
+        "right_ascension": "18:19.9"
+    },
+    {
+        "brightness": "6.5",
+        "declination": "-22:30",
+        "dim_x": "13.0",
+        "dim_y": "13.0",
+        "dimensions": "13.0",
+        "distance": "4250.0",
+        "name": "M21",
+        "right_ascension": "18:04.6"
+    },
+    {
+        "brightness": "6.0",
+        "declination": "-16:11",
+        "dim_x": "11.0",
+        "dim_y": "11.0",
+        "dimensions": "11.0",
+        "distance": "5000.0",
+        "name": "M17",
+        "right_ascension": "18:20.8"
+    },
+    {
+        "brightness": "9.0",
+        "declination": "-23:02",
+        "dim_x": "28.0",
+        "dim_y": "28.0",
+        "dimensions": "28.0",
+        "distance": "5200.0",
+        "name": "M20",
+        "right_ascension": "18:02.6"
+    },
+    {
+        "brightness": "6.4",
+        "declination": "-13:47",
+        "dim_x": "7.0",
+        "dim_y": "7.0",
+        "dimensions": "7.0",
+        "distance": "7000.0",
+        "name": "M16",
+        "right_ascension": "18:18.8"
+    },
+    {
+        "brightness": "6.2",
+        "declination": "+12:10",
+        "dim_x": "18.0",
+        "dim_y": "18.0",
+        "dimensions": "18.0",
+        "distance": "33600.0",
+        "name": "M15",
+        "right_ascension": "21:30.0"
+    },
+    {
+        "brightness": "6.3",
+        "declination": "-06:16",
+        "dim_x": "14.0",
+        "dim_y": "14.0",
+        "dimensions": "14.0",
+        "distance": "6000.0",
+        "name": "M11",
+        "right_ascension": "18:51.1"
+    },
+    {
+        "brightness": "7.6",
+        "declination": "-03:15",
+        "dim_x": "11.0",
+        "dim_y": "11.0",
+        "dimensions": "11.0",
+        "distance": "30300.0",
+        "name": "M14",
+        "right_ascension": "17:37.6"
+    },
+    {
+        "brightness": "8.5",
+        "declination": "+41:41",
+        "dim_x": "17",
+        "dim_y": "10",
+        "dimensions": "17x10",
+        "distance": "2900000.0",
+        "name": "M110",
+        "right_ascension": "00:40.4"
+    },
+    {
+        "brightness": "5.8",
+        "declination": "+36:28",
+        "dim_x": "20.0",
+        "dim_y": "20.0",
+        "dimensions": "20.0",
+        "distance": "25100.0",
+        "name": "M13",
+        "right_ascension": "16:41.7"
+    },
+    {
+        "brightness": "6.6",
+        "declination": "-04:06",
+        "dim_x": "20.0",
+        "dim_y": "20.0",
+        "dimensions": "20.0",
+        "distance": "14300.0",
+        "name": "M10",
+        "right_ascension": "16:57.1"
+    },
+    {
+        "brightness": "6.7",
+        "declination": "-01:57",
+        "dim_x": "16.0",
+        "dim_y": "16.0",
+        "dimensions": "16.0",
+        "distance": "16000.0",
+        "name": "M12",
+        "right_ascension": "16:47.2"
+    },
+    {
+        "brightness": "9.8",
+        "declination": "+53:23",
+        "dim_x": "7",
+        "dim_y": "4",
+        "dimensions": "7x4",
+        "distance": "55000000.0",
+        "name": "M109",
+        "right_ascension": "11:57.6"
+    },
+    {
+        "brightness": "10.1",
+        "declination": "+52:20",
+        "dim_x": "7",
+        "dim_y": "4",
+        "dimensions": "7x4",
+        "distance": "55000000.0",
+        "name": "M109B, NGC 3953",
+        "right_ascension": "11:53.8"
+    },
+    {
+        "brightness": "10.0",
+        "declination": "+55:40",
+        "dim_x": "8",
+        "dim_y": "1",
+        "dimensions": "8x1",
+        "distance": "45000000.0",
+        "name": "M108",
+        "right_ascension": "11:11.5"
+    },
+    {
+        "brightness": "7.9",
+        "declination": "-13:03",
+        "dim_x": "13.0",
+        "dim_y": "13.0",
+        "dimensions": "13.0",
+        "distance": "20900.0",
+        "name": "M107",
+        "right_ascension": "16:32.5"
+    },
+    {
+        "brightness": "8.4",
+        "declination": "+47:18",
+        "dim_x": "19",
+        "dim_y": "8",
+        "dimensions": "19x8",
+        "distance": "25000000.0",
+        "name": "M106",
+        "right_ascension": "12:19.0"
+    },
+    {
+        "brightness": "9.3",
+        "declination": "+12:35",
+        "dim_x": "2.0",
+        "dim_y": "2.0",
+        "dimensions": "2.0",
+        "distance": "38000000.0",
+        "name": "M105",
+        "right_ascension": "10:47.8"
+    },
+    {
+        "brightness": "7.4",
+        "declination": "+60:42",
+        "dim_x": "6.0",
+        "dim_y": "6.0",
+        "dimensions": "6.0",
+        "distance": "8500.0",
+        "name": "M103",
+        "right_ascension": "01:33.2"
+    },
+    {
+        "brightness": "8.0",
+        "declination": "-11:37",
+        "dim_x": "9",
+        "dim_y": "4",
+        "dimensions": "9x4",
+        "distance": "50000000.0",
+        "name": "M104",
+        "right_ascension": "12:40.0"
+    },
+    {
+        "brightness": "9.9",
+        "declination": "+55:46",
+        "dim_x": "5.2",
+        "dim_y": "2.3",
+        "dimensions": "5.2x2.3",
+        "distance": "45000000.0",
+        "name": "M102",
+        "right_ascension": "15:06.5"
+    },
+    {
+        "brightness": "7.9",
+        "declination": "+54:21",
+        "dim_x": "22.0",
+        "dim_y": "22.0",
+        "dimensions": "22.0",
+        "distance": "27000000.0",
+        "name": "M101",
+        "right_ascension": "14:03.2"
+    },
+    {
+        "brightness": "9.9",
+        "declination": "+14:25",
+        "dim_x": "5.4",
+        "dim_y": "4.8",
+        "dimensions": "5.4x4.8",
+        "distance": "60000000.0",
+        "name": "M99",
+        "right_ascension": "12:18.8"
+    },
+    {
+        "brightness": "10.1",
+        "declination": "+14:54",
+        "dim_x": "9.5",
+        "dim_y": "3.2",
+        "dimensions": "9.5x3.2",
+        "distance": "60000000.0",
+        "name": "M98",
+        "right_ascension": "12:13.8"
+    },
+    {
+        "brightness": "9.2",
+        "declination": "+11:49",
+        "dim_x": "6",
+        "dim_y": "4",
+        "dimensions": "6x4",
+        "distance": "38000000.0",
+        "name": "M96",
+        "right_ascension": "10:46.8"
+    },
+    {
+        "brightness": "9.7",
+        "declination": "+11:42",
+        "dim_x": "4.4",
+        "dim_y": "3.3",
+        "dimensions": "4.4x3.3",
+        "distance": "38000000.0",
+        "name": "M95",
+        "right_ascension": "10:44.0"
+    },
+    {
+        "brightness": "9.9",
+        "declination": "+55:01",
+        "dim_x": "3.4",
+        "dim_y": "3.3",
+        "dimensions": "3.4x3.3",
+        "distance": "2600.0",
+        "name": "M97",
+        "right_ascension": "11:14.8"
+    },
+    {
+        "brightness": "9.3",
+        "declination": "+15:49",
+        "dim_x": "7",
+        "dim_y": "6",
+        "dimensions": "7x6",
+        "distance": "60000000.0",
+        "name": "M100",
+        "right_ascension": "12:22.9"
+    },
+    {
+        "brightness": "8.2",
+        "declination": "+41:07",
+        "dim_x": "7",
+        "dim_y": "3",
+        "dimensions": "7x3",
+        "distance": "14500000.0",
+        "name": "M94",
+        "right_ascension": "12:50.9"
+    },
+    {
+        "brightness": "6.0",
+        "declination": "-23:52",
+        "dim_x": "22.0",
+        "dim_y": "22.0",
+        "dimensions": "22.0",
+        "distance": "3600.0",
+        "name": "M93",
+        "right_ascension": "07:44.6"
+    },
+    {
+        "brightness": "6.4",
+        "declination": "+43:08",
+        "dim_x": "14.0",
+        "dim_y": "14.0",
+        "dimensions": "14.0",
+        "distance": "26700.0",
+        "name": "M92",
+        "right_ascension": "17:17.1"
+    },
+    {
+        "brightness": "10.2",
+        "declination": "+14:30",
+        "dim_x": "5.4",
+        "dim_y": "4.4",
+        "dimensions": "5.4x4.4",
+        "distance": "60000000.0",
+        "name": "M91",
+        "right_ascension": "12:35.4"
+    },
+    {
+        "brightness": "9.5",
+        "declination": "+13:10",
+        "dim_x": "9.5",
+        "dim_y": "4.5",
+        "dimensions": "9.5x4.5",
+        "distance": "60000000.0",
+        "name": "M90",
+        "right_ascension": "12:36.8"
+    },
+    {
+        "brightness": "9.8",
+        "declination": "+12:33",
+        "dim_x": "4.0",
+        "dim_y": "4.0",
+        "dimensions": "4.0",
+        "distance": "60000000.0",
+        "name": "M89",
+        "right_ascension": "12:35.7"
+    },
+    {
+        "brightness": "9.6",
+        "declination": "+14:25",
+        "dim_x": "7",
+        "dim_y": "4",
+        "dimensions": "7x4",
+        "distance": "60000000.0",
+        "name": "M88",
+        "right_ascension": "12:32.0"
+    },
+    {
+        "brightness": "8.9",
+        "declination": "+12:57",
+        "dim_x": "7.5",
+        "dim_y": "5.5",
+        "dimensions": "7.5x5.5",
+        "distance": "60000000.0",
+        "name": "M86",
+        "right_ascension": "12:26.2"
+    },
+    {
+        "brightness": "8.6",
+        "declination": "+12:24",
+        "dim_x": "7.0",
+        "dim_y": "7.0",
+        "dimensions": "7.0",
+        "distance": "60000000.0",
+        "name": "M87",
+        "right_ascension": "12:30.8"
+    },
+    {
+        "brightness": "9.1",
+        "declination": "+18:11",
+        "dim_x": "7.1",
+        "dim_y": "5.2",
+        "dimensions": "7.1x5.2",
+        "distance": "60000000.0",
+        "name": "M85",
+        "right_ascension": "12:25.4"
+    },
+    {
+        "brightness": "9.1",
+        "declination": "+12:53",
+        "dim_x": "5.0",
+        "dim_y": "5.0",
+        "dimensions": "5.0",
+        "distance": "60000000.0",
+        "name": "M84",
+        "right_ascension": "12:25.1"
+    },
+    {
+        "brightness": "8.4",
+        "declination": "+69:41",
+        "dim_x": "9",
+        "dim_y": "4",
+        "dimensions": "9x4",
+        "distance": "12000000.0",
+        "name": "M82",
+        "right_ascension": "09:55.8"
+    },
+    {
+        "brightness": "7.6",
+        "declination": "-29:52",
+        "dim_x": "11",
+        "dim_y": "10",
+        "dimensions": "11x10",
+        "distance": "15000000.0",
+        "name": "M83",
+        "right_ascension": "13:37.0"
+    },
+    {
+        "brightness": "6.9",
+        "declination": "+69:04",
+        "dim_x": "21",
+        "dim_y": "10",
+        "dimensions": "21x10",
+        "distance": "12000000.0",
+        "name": "M81",
+        "right_ascension": "09:55.6"
+    },
+    {
+        "brightness": "7.7",
+        "declination": "-24:31",
+        "dim_x": "9.6",
+        "dim_y": "9.6",
+        "dimensions": "9.6",
+        "distance": "42100.0",
+        "name": "M79",
+        "right_ascension": "05:24.2"
+    },
+    {
+        "brightness": "7.3",
+        "declination": "-22:59",
+        "dim_x": "10.0",
+        "dim_y": "10.0",
+        "dimensions": "10.0",
+        "distance": "32600.0",
+        "name": "M80",
+        "right_ascension": "16:17.0"
+    },
+    {
+        "brightness": "8.3",
+        "declination": "+00:03",
+        "dim_x": "8",
+        "dim_y": "6",
+        "dimensions": "8x6",
+        "distance": "1350.0",
+        "name": "M78",
+        "right_ascension": "05:46.7"
+    },
+    {
+        "brightness": "10.1",
+        "declination": "+51:34",
+        "dim_x": "2.7",
+        "dim_y": "1.8",
+        "dimensions": "2.7x1.8",
+        "distance": "2500.0",
+        "name": "M76",
+        "right_ascension": "01:42.4"
+    },
+    {
+        "brightness": "8.9",
+        "declination": "-00:01",
+        "dim_x": "7",
+        "dim_y": "6",
+        "dimensions": "7x6",
+        "distance": "60000000.0",
+        "name": "M77",
+        "right_ascension": "02:42.7"
+    },
+    {
+        "brightness": "8.5",
+        "declination": "-21:55",
+        "dim_x": "6.8",
+        "dim_y": "6.8",
+        "dimensions": "6.8",
+        "distance": "67500.0",
+        "name": "M75",
+        "right_ascension": "20:06.1"
+    },
+    {
+        "brightness": "9.4",
+        "declination": "+15:47",
+        "dim_x": "10.2",
+        "dim_y": "9.5",
+        "dimensions": "10.2x9.5",
+        "distance": "35000000.0",
+        "name": "M74",
+        "right_ascension": "01:36.7"
+    },
+    {
+        "brightness": "9.0",
+        "declination": "-12:38",
+        "dim_x": "2.8",
+        "dim_y": "2.8",
+        "dimensions": "2.8",
+        "distance": "2500.0",
+        "name": "M73",
+        "right_ascension": "20:58.9"
+    },
+    {
+        "brightness": "9.3",
+        "declination": "-12:32",
+        "dim_x": "6.6",
+        "dim_y": "6.6",
+        "dimensions": "6.6",
+        "distance": "55400.0",
+        "name": "M72",
+        "right_ascension": "20:53.5"
+    },
+    {
+        "brightness": "8.2",
+        "declination": "+18:47",
+        "dim_x": "7.2",
+        "dim_y": "7.2",
+        "dimensions": "7.2",
+        "distance": "13000.0",
+        "name": "M71",
+        "right_ascension": "19:53.8"
+    },
+    {
+        "brightness": "7.9",
+        "declination": "-32:18",
+        "dim_x": "8.0",
+        "dim_y": "8.0",
+        "dimensions": "8.0",
+        "distance": "29300.0",
+        "name": "M70",
+        "right_ascension": "18:43.2"
+    },
+    {
+        "brightness": "7.6",
+        "declination": "-32:21",
+        "dim_x": "9.8",
+        "dim_y": "9.8",
+        "dimensions": "9.8",
+        "distance": "29700.0",
+        "name": "M69",
+        "right_ascension": "18:31.4"
+    },
+    {
+        "brightness": "7.8",
+        "declination": "-26:45",
+        "dim_x": "11.0",
+        "dim_y": "11.0",
+        "dimensions": "11.0",
+        "distance": "33300.0",
+        "name": "M68",
+        "right_ascension": "12:39.5"
+    },
+    {
+        "brightness": "6.1",
+        "declination": "+11:48",
+        "dim_x": "30.0",
+        "dim_y": "30.0",
+        "dimensions": "30.0",
+        "distance": "2700.0",
+        "name": "M67",
+        "right_ascension": "08:51.3"
+    },
+    {
+        "brightness": "8.9",
+        "declination": "+12:59",
+        "dim_x": "8",
+        "dim_y": "2.5",
+        "dimensions": "8x2.5",
+        "distance": "35000000.0",
+        "name": "M66",
+        "right_ascension": "11:20.2"
+    },
+    {
+        "brightness": "9.3",
+        "declination": "+13:05",
+        "dim_x": "8",
+        "dim_y": "1.5",
+        "dimensions": "8x1.5",
+        "distance": "35000000.0",
+        "name": "M65",
+        "right_ascension": "11:18.9"
+    },
+    {
+        "brightness": "8.5",
+        "declination": "+21:41",
+        "dim_x": "9.3",
+        "dim_y": "5.4",
+        "dimensions": "9.3x5.4",
+        "distance": "19000000.0",
+        "name": "M64",
+        "right_ascension": "12:56.7"
+    },
+    {
+        "brightness": "8.6",
+        "declination": "+42:02",
+        "dim_x": "10",
+        "dim_y": "6",
+        "dimensions": "10x6",
+        "distance": "37000000.0",
+        "name": "M63",
+        "right_ascension": "13:15.8"
+    },
+    {
+        "brightness": "9.7",
+        "declination": "+04:28",
+        "dim_x": "6",
+        "dim_y": "5.5",
+        "dimensions": "6x5.5",
+        "distance": "60000000.0",
+        "name": "M61",
+        "right_ascension": "12:21.9"
+    },
+    {
+        "brightness": "8.8",
+        "declination": "+11:33",
+        "dim_x": "7",
+        "dim_y": "6",
+        "dimensions": "7x6",
+        "distance": "60000000.0",
+        "name": "M60",
+        "right_ascension": "12:43.7"
+    },
+    {
+        "brightness": "6.5",
+        "declination": "-30:07",
+        "dim_x": "15.0",
+        "dim_y": "15.0",
+        "dimensions": "15.0",
+        "distance": "22500.0",
+        "name": "M62",
+        "right_ascension": "17:01.2"
+    },
+    {
+        "brightness": "9.6",
+        "declination": "+11:39",
+        "dim_x": "5",
+        "dim_y": "3.5",
+        "dimensions": "5x3.5",
+        "distance": "60000000.0",
+        "name": "M59",
+        "right_ascension": "12:42.0"
+    },
+    {
+        "brightness": "9.7",
+        "declination": "+11:49",
+        "dim_x": "5.5",
+        "dim_y": "4.5",
+        "dimensions": "5.5x4.5",
+        "distance": "60000000.0",
+        "name": "M58",
+        "right_ascension": "12:37.7"
+    },
+    {
+        "brightness": "8.3",
+        "declination": "+30:11",
+        "dim_x": "8.8",
+        "dim_y": "8.8",
+        "dimensions": "8.8",
+        "distance": "32900.0",
+        "name": "M56",
+        "right_ascension": "19:16.6"
+    },
+    {
+        "brightness": "8.8",
+        "declination": "+33:02",
+        "dim_x": "1.4",
+        "dim_y": "1.0",
+        "dimensions": "1.4x1.0",
+        "distance": "2300.0",
+        "name": "M57",
+        "right_ascension": "18:53.6"
+    },
+    {
+        "brightness": "6.3",
+        "declination": "-30:58",
+        "dim_x": "19.0",
+        "dim_y": "19.0",
+        "dimensions": "19.0",
+        "distance": "17300.0",
+        "name": "M55",
+        "right_ascension": "19:40.0"
+    },
+    {
+        "brightness": "7.6",
+        "declination": "-30:29",
+        "dim_x": "12.0",
+        "dim_y": "12.0",
+        "dimensions": "12.0",
+        "distance": "87400.0",
+        "name": "M54",
+        "right_ascension": "18:55.1"
+    },
+    {
+        "brightness": "7.6",
+        "declination": "+18:10",
+        "dim_x": "13.0",
+        "dim_y": "13.0",
+        "dimensions": "13.0",
+        "distance": "58000.0",
+        "name": "M53",
+        "right_ascension": "13:12.9"
+    },
+    {
+        "brightness": "7.3",
+        "declination": "+61:35",
+        "dim_x": "13.0",
+        "dim_y": "13.0",
+        "dimensions": "13.0",
+        "distance": "5000.0",
+        "name": "M52",
+        "right_ascension": "23:24.2"
+    },
+    {
+        "brightness": "9.6",
+        "declination": "+47:16",
+        "dim_x": "6.4",
+        "dim_y": "4.6",
+        "dimensions": "6.4x4.6",
+        "distance": "37000000.0",
+        "name": "M51B, NGC 5195",
+        "right_ascension": "13:30.0"
+    },
+    {
+        "brightness": "8.4",
+        "declination": "+47:12",
+        "dim_x": "11",
+        "dim_y": "7",
+        "dimensions": "11x7",
+        "distance": "37000000.0",
+        "name": "M51",
+        "right_ascension": "13:29.9"
+    },
+    {
+        "brightness": "5.9",
+        "declination": "-08:20",
+        "dim_x": "16.0",
+        "dim_y": "16.0",
+        "dimensions": "16.0",
+        "distance": "3200.0",
+        "name": "M50",
+        "right_ascension": "07:03.2"
+    },
+    {
+        "brightness": "5.5",
+        "declination": "-05:48",
+        "dim_x": "54.0",
+        "dim_y": "54.0",
+        "dimensions": "54.0",
+        "distance": "1500.0",
+        "name": "M48",
+        "right_ascension": "08:13.8"
+    },
+    {
+        "brightness": "8.4",
+        "declination": "+08:00",
+        "dim_x": "9",
+        "dim_y": "7.5",
+        "dimensions": "9x7.5",
+        "distance": "60000000.0",
+        "name": "M49",
+        "right_ascension": "12:29.8"
+    },
+    {
+        "brightness": "6.0",
+        "declination": "-14:49",
+        "dim_x": "27.0",
+        "dim_y": "27.0",
+        "dimensions": "27.0",
+        "distance": "5400.0",
+        "name": "M46",
+        "right_ascension": "07:41.8"
+    },
+    {
+        "brightness": "5.2",
+        "declination": "-14:30",
+        "dim_x": "30.0",
+        "dim_y": "30.0",
+        "dimensions": "30.0",
+        "distance": "1600.0",
+        "name": "M47",
+        "right_ascension": "07:36.6"
+    },
+    {
+        "brightness": "3.7",
+        "declination": "+19:59",
+        "dim_x": "95.0",
+        "dim_y": "95.0",
+        "dimensions": "95.0",
+        "distance": "577.0",
+        "name": "M44",
+        "right_ascension": "08:40.1"
+    },
+    {
+        "brightness": "1.6",
+        "declination": "+24:07",
+        "dim_x": "110.0",
+        "dim_y": "110.0",
+        "dimensions": "110.0",
+        "distance": "440.0",
+        "name": "M45",
+        "right_ascension": "03:47.0"
+    },
+    {
+        "brightness": "9.0",
+        "declination": "-05:16",
+        "dim_x": "20",
+        "dim_y": "15",
+        "dimensions": "20x15",
+        "distance": "1350.0",
+        "name": "M43",
+        "right_ascension": "05:35.6"
+    },
+    {
+        "brightness": "4.0",
+        "declination": "-05:27",
+        "dim_x": "85",
+        "dim_y": "60",
+        "dimensions": "85x60",
+        "distance": "1350.0",
+        "name": "M42",
+        "right_ascension": "05:35.4"
+    },
+    {
+        "brightness": "4.5",
+        "declination": "-20:44",
+        "dim_x": "38.0",
+        "dim_y": "38.0",
+        "dimensions": "38.0",
+        "distance": "2300.0",
+        "name": "M41",
+        "right_ascension": "06:46.0"
+    },
+    {
+        "brightness": "7.4",
+        "declination": "+35:50",
+        "dim_x": "21.0",
+        "dim_y": "21.0",
+        "dimensions": "21.0",
+        "distance": "4200.0",
+        "name": "M38",
+        "right_ascension": "05:28.4"
+    },
+    {
+        "brightness": "4.6",
+        "declination": "+48:26",
+        "dim_x": "32.0",
+        "dim_y": "32.0",
+        "dimensions": "32.0",
+        "distance": "825.0",
+        "name": "M39",
+        "right_ascension": "21:32.2"
+    },
+    {
+        "brightness": "6.2",
+        "declination": "+32:33",
+        "dim_x": "24.0",
+        "dim_y": "24.0",
+        "dimensions": "24.0",
+        "distance": "4400.0",
+        "name": "M37",
+        "right_ascension": "05:52.4"
+    },
+    {
+        "brightness": "6.3",
+        "declination": "+34:08",
+        "dim_x": "12.0",
+        "dim_y": "12.0",
+        "dimensions": "12.0",
+        "distance": "4100.0",
+        "name": "M36",
+        "right_ascension": "05:36.1"
+    },
+    {
+        "brightness": "8.4",
+        "declination": "+58:05",
+        "dim_x": "0.8",
+        "dim_y": "0.8",
+        "dimensions": "0.8",
+        "distance": "",
+        "name": "M40",
+        "right_ascension": "12:22.4"
+    },
+    {
+        "brightness": "5.3",
+        "declination": "+24:20",
+        "dim_x": "28.0",
+        "dim_y": "28.0",
+        "dimensions": "28.0",
+        "distance": "2800.0",
+        "name": "M35",
+        "right_ascension": "06:08.9"
+    },
+    {
+        "brightness": "5.5",
+        "declination": "+42:47",
+        "dim_x": "35.0",
+        "dim_y": "35.0",
+        "dimensions": "35.0",
+        "distance": "1400.0",
+        "name": "M34",
+        "right_ascension": "02:42.0"
+    },
+    {
+        "brightness": "5.7",
+        "declination": "+30:39",
+        "dim_x": "73",
+        "dim_y": "45",
+        "dimensions": "73x45",
+        "distance": "3000000.0",
+        "name": "M33",
+        "right_ascension": "01:33.9"
+    },
+    {
+        "brightness": "3.4",
+        "declination": "+41:16",
+        "dim_x": "178",
+        "dim_y": "63",
+        "dimensions": "178x63",
+        "distance": "2900000.0",
+        "name": "M31",
+        "right_ascension": "00:42.7"
+    },
+    {
+        "brightness": "7.1",
+        "declination": "+38:32",
+        "dim_x": "7.0",
+        "dim_y": "7.0",
+        "dimensions": "7.0",
+        "distance": "4000.0",
+        "name": "M29",
+        "right_ascension": "20:23.9"
+    },
+    {
+        "brightness": "6.8",
+        "declination": "-24:52",
+        "dim_x": "11.2",
+        "dim_y": "11.2",
+        "dimensions": "11.2",
+        "distance": "18300.0",
+        "name": "M28",
+        "right_ascension": "18:24.5"
+    },
+    {
+        "brightness": "7.4",
+        "declination": "+22:43",
+        "dim_x": "8.0",
+        "dim_y": "5.7",
+        "dimensions": "8.0x5.7",
+        "distance": "1250.0",
+        "name": "M27",
+        "right_ascension": "19:59.6"
+    },
+    {
+        "brightness": "8.1",
+        "declination": "+40:52",
+        "dim_x": "8",
+        "dim_y": "6",
+        "dimensions": "8x6",
+        "distance": "2900000.0",
+        "name": "M32",
+        "right_ascension": "00:42.7"
+    },
+    {
+        "brightness": "7.2",
+        "declination": "-23:11",
+        "dim_x": "12.0",
+        "dim_y": "12.0",
+        "dimensions": "12.0",
+        "distance": "26100.0",
+        "name": "M30",
+        "right_ascension": "21:40.4"
+    },
+    {
+        "brightness": "8.0",
+        "declination": "-09:24",
+        "dim_x": "15.0",
+        "dim_y": "15.0",
+        "dimensions": "15.0",
+        "distance": "5000.0",
+        "name": "M26",
+        "right_ascension": "18:45.2"
+    },
+    {
+        "brightness": "6.0",
+        "declination": "-24:23",
+        "dim_x": "90",
+        "dim_y": "40",
+        "dimensions": "90x40",
+        "distance": "5200.0",
+        "name": "M8",
+        "right_ascension": "18:03.8"
+    },
+    {
+        "brightness": "7.7",
+        "declination": "-18:31",
+        "dim_x": "12.0",
+        "dim_y": "12.0",
+        "dimensions": "12.0",
+        "distance": "25800.0",
+        "name": "M9",
+        "right_ascension": "17:19.2"
+    },
+    {
+        "brightness": "3.3",
+        "declination": "-34:49",
+        "dim_x": "80.0",
+        "dim_y": "80.0",
+        "dimensions": "80.0",
+        "distance": "800.0",
+        "name": "M7",
+        "right_ascension": "17:53.9"
+    },
+    {
+        "brightness": "4.2",
+        "declination": "-32:13",
+        "dim_x": "25.0",
+        "dim_y": "25.0",
+        "dimensions": "25.0",
+        "distance": "1600.0",
+        "name": "M6",
+        "right_ascension": "17:40.1"
+    },
+    {
+        "brightness": "5.6",
+        "declination": "+02:05",
+        "dim_x": "23.0",
+        "dim_y": "23.0",
+        "dimensions": "23.0",
+        "distance": "24500.0",
+        "name": "M5",
+        "right_ascension": "15:18.6"
+    },
+    {
+        "brightness": "5.6",
+        "declination": "-26:32",
+        "dim_x": "36.0",
+        "dim_y": "36.0",
+        "dimensions": "36.0",
+        "distance": "7200.0",
+        "name": "M4",
+        "right_ascension": "16:23.6"
+    },
+    {
+        "brightness": "6.2",
+        "declination": "+28:23",
+        "dim_x": "18.0",
+        "dim_y": "18.0",
+        "dimensions": "18.0",
+        "distance": "33900.0",
+        "name": "M3",
+        "right_ascension": "13:42.2"
+    },
+    {
+        "brightness": "6.5",
+        "declination": "-00:49",
+        "dim_x": "16.0",
+        "dim_y": "16.0",
+        "dimensions": "16.0",
+        "distance": "37500.0",
+        "name": "M2",
+        "right_ascension": "21:33.5"
+    },
+    {
+        "brightness": "8.4",
+        "declination": "+22:01",
+        "dim_x": "6",
+        "dim_y": "4",
+        "dimensions": "6x4",
+        "distance": "6300.0",
+        "name": "M1",
+        "right_ascension": "05:34.5"
+    }
+]
